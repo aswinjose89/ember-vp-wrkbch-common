@@ -1,0 +1,5 @@
+{
+  "apache_dir" : "/var/www/html",
+  "environment" : "dev",
+  "deploy_dir" : "/usr/local/ui-apps"
+}

@@ -1,0 +1,15 @@
+{
+  "base_app_git_url"          : "git+http://192.168.3.5:7990/scm/foun/wb-ui-base-app.git",
+  "components_git_url"        : "git+http://192.168.3.5:7990/scm/foun/wb-ui-components.git",
+  "core_git_url"              : "git+http://192.168.3.5:7990/scm/foun/wb-ui-core.git",
+  "formservices_git_url"      : "git+http://192.168.3.5:7990/scm/foun/wb-ui-formservices.git",
+  "theme_git_url"             : "git+http://192.168.3.5:7990/scm/foun/wb-ui-theme.git",
+  "rdm_git_url"               : "git+http://192.168.3.5:7990/scm/foun/wb-ui-rdm.git",
+  "livefeed_git_url"          : "git+http://192.168.3.5:7990/scm/foun/wb-ui-livefeed.git",
+  "wb_ui_global_search_url"   : "git+http://192.168.3.5:7990/scm/wb2/wb-ui-global-search.git",
+  "wb_ui_picklist_url"        : "git+http://192.168.3.5:7990/scm/wb2/wb-ui-picklist.git",
+  "ember_cli_simple_auth_url" : "git+http://192.168.3.5:7990/scm/foun/ember-cli-simple-auth.git",
+  "wb_ui_gadgets_url"         : "git+http://192.168.3.5:7990/scm/wb2/wb-ui-gadgets.git",
+  "wb_ui_summary_url"         : "git+http://192.168.3.5:7990/scm/wb2/wb-ui-summary.git",
+  "wb_ui_md_components_url"   : "git+http://192.168.3.5:7990/scm/foun/wb-ui-md-components.git"
+}

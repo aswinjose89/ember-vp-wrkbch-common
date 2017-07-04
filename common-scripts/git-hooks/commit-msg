@@ -1,0 +1,4 @@
+#!/bin/sh
+
+file_name=$1
+node common-scripts/git-hooks/commit-msg.js ${file_name}

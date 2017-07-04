@@ -1,0 +1,283 @@
+{
+  "dependencies": {
+    "broccoli-funnel": {
+      "version": "@@broccoli-funnel_VERSION"
+    },
+    "broccoli-merge-trees": {
+      "version": "@@broccoli-merge-trees_VERSION"
+    },
+    "ember-cli-babel": {
+      "version": "@@ember-cli-babel_VERSION"
+    },
+    "ember-cli-htmlbars": {
+      "version": "@@ember-cli-htmlbars_VERSION"
+    },
+    "ember-cli-simple-auth": {
+        "version": "@@ember-cli-simple-auth_VERSION"
+    },
+    "ember-cli-simple-auth-cookie-store": {
+      "version": "@@ember-cli-simple-auth-cookie-store_VERSION"
+    },
+    "ember-cli-tooltipster": {
+      "version": "@@ember-cli-tooltipster_VERSION"
+    },
+    "liquid-fire": {
+      "version": "@@liquid-fire_VERSION"
+    },
+    "ember-cli-sass": {
+      "version": "@@ember-cli-sass_VERSION"
+    },
+    "ember-cli-htmlbars": {
+      "version": "@@ember-cli-htmlbars_VERSION"
+    },
+    "ember-cli-babel": {
+      "version": "@@ember-cli-babel_VERSION"
+    },
+    "ember-validations": {
+      "version": "@@ember-validations_VERSION"
+    },
+    "ember-select-2": {
+        "version": "@@ember-select-2_VERSION"
+    },
+    "ember-cli-dependency-checker": {
+        "version": "@@ember-cli-dependency-checker_VERSION"
+    },
+    "ember-disable-proxy-controllers": {
+        "version": "@@ember-disable-proxy-controllers_VERSION"
+    },
+    "ember-infinity": {
+        "version": "@@ember-infinity_VERSION"
+    },
+    "ember-cli-async-button": {
+        "version": "@@ember-cli-async-button_VERSION"
+    },
+    "ember-cli-document-title": {
+        "version": "@@ember-cli-document-title_VERSION"
+    },
+    "ember-wormhole": {
+        "version": "@@ember-wormhole_VERSION"
+    },
+    "ember-mousetrap": {
+        "version": "@@ember-mousetrap_VERSION"
+    },
+    "ember-responsive": {
+        "version": "@@ember-responsive_VERSION"
+    },
+    "ember-cli-zero-clipboard": {
+        "version": "@@ember-cli-zero-clipboard_VERSION"
+    },
+    "wb-ui-core": {
+      "version" : "@@wb-ui-core_VERSION",
+      "dependencies": {
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-simple-auth": {
+            "version": "@@ember-cli-simple-auth_VERSION"
+        },
+        "ember-cli-simple-auth-cookie-store": {
+            "version": "@@ember-cli-simple-auth-cookie-store_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-theme": {
+      "version" : "@@wb-ui-theme_VERSION",
+      "dependencies": {
+        "ember-cli-babel": {
+          "version" : "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-htmlbars": {
+          "version" : "@@ember-cli-htmlbars_VERSION"
+        },
+        "broccoli-funnel":{
+          "version" : "@@broccoli-funnel_VERSION"
+        },
+        "broccoli-merge-trees": {
+          "version" : "@@broccoli-merge-trees_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        },
+        "ember-responsive": {
+          "version": "@@ember-responsive_VERSION"
+        }
+      }
+    },
+    "wb-ui-components": {
+      "version" : "@@wb-ui-components_VERSION",
+      "dependencies": {
+        "ember-cli-babel": {
+          "version" : "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-htmlbars": {
+          "version" : "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-select-2": {
+            "version": "@@ember-select-2_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        },
+        "ember-infinity": {
+          "version": "@@ember-infinity_VERSION"
+        },
+        "ember-cli-async-button": {
+          "version": "@@ember-cli-async-button_VERSION"
+        },
+        "ember-cli-zero-clipboard": {
+          "version": "@@ember-cli-zero-clipboard_VERSION"
+        }
+      }
+    },
+    "wb-ui-base-app": {
+      "version": "@@wb-ui-base-app_VERSION",
+      "dependencies": {
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        },
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        },
+        "ember-wormhole": {
+            "version": "@@ember-wormhole_VERSION"
+        },
+        "ember-mousetrap": {
+            "version": "@@ember-mousetrap_VERSION"
+        }
+      }
+    },
+    "wb-ui-formservices": {
+      "version": "@@wb-ui-formservices_VERSION",
+      "dependencies": {
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-validations": {
+          "version": "@@ember-validations_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-rdm": {
+      "version" : "@@wb-ui-rdm_VERSION",
+      "dependencies": {
+        "ember-cli-babel": {
+          "version" : "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-htmlbars": {
+          "version" : "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-livefeed": {
+      "version": "@@wb-ui-livefeed_VERSION",
+      "dependencies": {
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-tooltipster": {
+          "version": "@@ember-cli-tooltipster_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-global-search": {
+      "version": "@@wb-ui-global-search_VERSION",
+      "dependencies": {
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-picklist": {
+      "version": "@@wb-ui-picklist_VERSION",
+      "dependencies": {
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-gadgets": {
+      "version": "@@wb-ui-gadgets_VERSION",
+      "dependencies": {
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-summary": {
+      "version": "@@wb-ui-summary_VERSION",
+      "dependencies": {
+        "broccoli-merge-trees": {
+            "version" : "@@broccoli-merge-trees_VERSION"
+        },
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "wb-ui-md-components": {
+      "version": "@@wb-ui-md-components_VERSION",
+      "dependencies": {
+        "ember-cli-htmlbars": {
+          "version": "@@ember-cli-htmlbars_VERSION"
+        },
+        "ember-cli-babel": {
+          "version": "@@ember-cli-babel_VERSION"
+        },
+        "ember-cli-sass": {
+          "version": "@@ember-cli-sass_VERSION"
+        }
+      }
+    },
+    "ember-cli-flash": {
+      "version": "@@ember-cli-flash_VERSION"
+    }
+  }
+}

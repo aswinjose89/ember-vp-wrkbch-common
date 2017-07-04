@@ -1,0 +1,20 @@
+{
+    "production": {
+        "fingerprint": {
+            "customHash": "1.0.0",
+            "exclude": ["images/background", "wb-ui-base-app/images/background"]
+        },
+        "SRI": {
+            "enabled": false
+        },
+        "autoRun": true,
+        "storeConfigInMeta": true,
+        "minifyCSS": {
+            "enabled": false
+        },
+        "minifyJS": {
+            "enabled": false
+        }
+    },
+    "toolingBranch": "release/wb-3.2"
+}

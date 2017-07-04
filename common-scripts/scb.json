@@ -1,0 +1,14 @@
+{
+  "base_app_git_url"         : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/wb-ui-base-app.git",
+  "components_git_url"       : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/wb-ui-components.git",
+  "core_git_url"             : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/wb-ui-core.git",
+  "formservices_git_url"     : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/wb-ui-formservices.git",
+  "theme_git_url"            : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/wb-ui-theme.git",
+  "rdm_git_url"              : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/wb-ui-rdm.git",
+  "livefeed_git_url"         : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/wb-ui-livefeed.git",
+  "wb_ui_global_search_url"  : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2/wb-ui-global-search.git",
+  "wb_ui_picklist_url"       : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2/wb-ui-picklist.git",
+  "ember_cli_simple_auth_url": "git+ssh://git@stash.uk.standardchartered.com:7999/wb2-foundation/ember-cli-simple-auth.git",
+  "wb_ui_gadgets_url"        : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2/wb-ui-gadgets.git",
+  "wb_ui_summary_url"        : "git+ssh://git@stash.uk.standardchartered.com:7999/wb2/wb-ui-summary.git"
+}
